@@ -13,6 +13,6 @@ Group Members :
 4. Muhammad Hazim Bin Saharuddin
 
 
-Front-End Github Link : https://github.com/faizkarim/MobileApplicationProgramming.git
+Front-End Github Link : https://github.com/faizkarim/MobileApplicationProgramming
 
 Presentation Video URL : https://www.youtube.com/watch?v=CMEd-UQYGKY
